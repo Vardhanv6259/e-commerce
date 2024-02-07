@@ -43,7 +43,7 @@ const UserRegistration = () => {
           </button>
           <div className="register-link">
             <p>Already have an account!</p>
-            <Link to="/">Login</Link>
+            <Link to="/e-commerce">Login</Link>
           </div>
         </div>
       </form>
